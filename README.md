@@ -1,4 +1,6 @@
 
+<h1 align="center">Hi 👋, I'm vikant choudhary </h1>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 🔭 I’m currently working on Data Analytics and Data Science projects
 
