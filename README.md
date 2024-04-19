@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm vikant kumar </h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-🔭 I’m currently working on Data Analytics and Data Science projects
+🔭 I’m currently working on Data Analytics projects
 
 🌱 I’m currently learning advanced Python, Tableau, Machine learning, and Deep learning
 
