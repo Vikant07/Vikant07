@@ -8,4 +8,6 @@
 
 💬 Ask me about Data visualization, python, SQL, and Machine Learning,power BI
 
-📫 How to reach me  vikant019191@gmail.com
+📫 How to reach me - vikant019191@gmail.com
+
+🔍 Linkedin profile - www.linkedin.com/in/vikant-kumar-a233282b1
