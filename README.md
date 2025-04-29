@@ -8,7 +8,7 @@
 👨‍💻 All of my professional projects are available at [My GitHub Projects](https://github.com/Vikant07?tab=repositories)  
 💬 Ask me about **SQL Queries, Power BI Dashboards, Data Cleaning, and Storytelling with Data**  
 📫 How to reach me: **vikant019191@gmail.com**  
-📄 Know about my work: [View My Resume](#) *(link add karna agar resume upload karoge)*  
+📄 Know about my work: [View My Resume](#)
 ⚡ Fun fact: **I turn raw data into powerful business stories 📊!**
 
 ---
