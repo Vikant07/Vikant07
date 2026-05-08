@@ -1,74 +1,85 @@
-<!-- 🌟 Modern GitHub README 2025 - Vikant Kumar -->
+<h1 align="center">Hi 👋, I'm Vikant Kumar</h1>
+<h3 align="center">Data Analyst & MIS Analyst | SQL · Power BI · Tableau · Python | Turning Data into Business Decisions</h3>
 
-<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikant+Kumar;Data+Analyst+%7C+Business+Intelligence+Enthusiast;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Crafting+Insights+from+Data+📊" alt="Typing Animation" />
+  <a href="https://www.linkedin.com/in/vikantkumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/vikantkumar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:vikant019191@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🚀 Business Analytics Intern @ Cognifyz Technologies</h2>
-<h4 align="center">Transforming data chaos into business clarity with dashboards, insights, and storytelling.</h4>
+## 🙋‍♂️ About Me
+
+- 🔍 Data Analyst & MIS Analyst with **1.5+ years** of hands-on experience
+- 📊 Built **5+ interactive dashboards** using Power BI & Tableau
+- ⚙️ Led ETL pipelines handling **50,000+ data points** with 100% accuracy
+- 📈 Delivered insights that boosted **sales performance by 20%**
+- 🎓 MBA (HR & Marketing) from **Lovely Professional University**
+- 🌱 Currently exploring: **Advanced Python for Data Analysis & Predictive Modeling**
+- 💼 Open to: **Data Analyst | MIS Analyst | Business Analyst | HR Analyst** roles
 
 ---
 
-## 🔍 About Me  
+## 🛠️ Tech Stack
 
-- 🔭 Currently interning as a **Business Analyst @ Cognifyz**  
-- 🌱 Diving deeper into **Data Analysis | Predictive Modeling | BI Dashboards**  
-- 👨‍💻 Portfolio: [My GitHub Projects](https://github.com/Vikant07?tab=repositories)  
-- 💬 Expertise: **SQL | Power BI | Excel | Python (Pandas, Matplotlib)**  
-- 📫 Contact me: **vikant019191@gmail.com**  
-- 📄 Know more: [View My Resume](#)  
-- ⚡ Motto: *“Data is the new oil — I refine it into insights.”*  
+**Languages & Querying**
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🛠️ Tech Arsenal (2025 Modern Look)
+**BI & Visualization**
 
-<p align="center" style="background:#0d1117; padding:20px; border-radius:20px; box-shadow:0px 0px 20px #8A2BE2;">
-  
-  <!-- 🔹 Programming & Databases -->
-  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" style="margin:15px; filter: drop-shadow(0px 0px 10px #00FFFF);" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="MySQL" style="margin:15px; filter: drop-shadow(0px 0px 10px #FFD700);" />
-  <img src="https://skillicons.dev/icons?i=git" height="65" alt="Git" style="margin:15px; filter: drop-shadow(0px 0px 10px #FF4500);" />
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="GitHub" style="margin:15px; filter: drop-shadow(0px 0px 10px #FFFFFF);" />
-  <img src="https://skillicons.dev/icons?i=azure" height="65" alt="Azure" style="margin:15px; filter: drop-shadow(0px 0px 10px #1E90FF);" />
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
-  <!-- 🔹 BI & Analytics -->
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="65" alt="Excel" style="margin:15px; filter: drop-shadow(0px 0px 10px #32CD32);" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="65" alt="Power BI" style="margin:15px; filter: drop-shadow(0px 0px 10px #FFD700);" />
-  <img src="https://img.icons8.com/color/96/tableau-software.png" height="65" alt="Tableau" style="margin:15px; filter: drop-shadow(0px 0px 10px #00BFFF);" />
-  <img src="https://img.icons8.com/color/96/google-data-studio.png" height="65" alt="Looker Studio" style="margin:15px; filter: drop-shadow(0px 0px 10px #FF69B4);" />
+**Data & Analysis**
 
-</p>
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📊 GitHub Performance  
+## 📂 Featured Projects
+
+> ⚠️ *Add your actual project links below — yeh placeholder hain*
+
+| Project | Tools Used | Description |
+|---|---|---|
+| 🛒 [Sales Dashboard](#) | Power BI, SQL | Interactive dashboard tracking sales KPIs across regions |
+| 📦 [Inventory MIS Report](#) | Excel, SQL | Automated MIS reporting system for inventory management |
+| 📊 [HR Analytics](#) | Python, Tableau | Employee attrition analysis with predictive insights |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikant07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikant07&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikant07&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</p>
-
----
-
-## 🤝 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikantkumar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-  <a href="mailto:vikant019191@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://github.com/Vikant07" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikant07&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikant07&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
+## 🏅 Certifications
+
+- ✅ Microsoft Office Specialist: Excel Expert
+- ✅ SQL — HackerRank (Advanced)
+- ✅ Data Analytics Intensive Program
+- ✅ Accenture Data Analytics Virtual Experience
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+  <i>"Data is the new oil — I refine it into insights."</i><br><br>
+  <b>📩 Let's connect: <a href="https://www.linkedin.com/in/vikantkumar/">LinkedIn</a> | vikant019191@gmail.com</b>
 </p>
